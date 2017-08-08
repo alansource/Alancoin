@@ -1,0 +1,9 @@
+Building Alancoin
+
+See doc/readme-qt.rst for instructions on building Alancoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Alancoin.
+
+See doc/build-*.txt for instructions on building Alancoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Alancoin.
